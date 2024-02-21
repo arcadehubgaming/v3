@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" class="light-mode">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arcade Hub V3</title>
+
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/game-list.css">
+</head>
+<body>
+
+    <div id="theme-toggle" class="btn theme-toggle"></div>
+    <div id="compact-toggle" class="btn compact-toggle"></div>
+    <div class="landing-page">
+        <div class="logo"></div>
+        <h1>
+            The place for games at
+            <div class="landing-animation">
+                <span>
+                    <strong class="landing-animation-text">school<br/></strong>
+                    <strong class="landing-animation-text">work<br/></strong>
+                    <strong class="landing-animation-text">home<br/></strong>
+                    <strong class="landing-animation-text">the playground<br/></strong>
+                    <strong class="landing-animation-text">the office<br/></strong>
+                    <strong class="landing-animation-text">a coffee shop<br/></strong>
+
+                    <strong class="landing-animation-text">school</strong>
+                </span>
+            </div>
+        </h1>
+        <h2>Discover tons of new games on Arcade Hub V3, the best, most current version of the best game site.</h2>
+    </div>
+
+    <div class="search-bar">
+        <input type="text" id="game-search" placeholder="Search games..." oninput="searchGames()">
+    </div>
+
+    <div class="genre-filters">
+        <!-- Checkboxes will be populated here -->
+    </div>
+
+    <div class="game-list">
+        <!-- Populates on its own -->
+    </div>
+
+    <script>
+        function setCookie(name, value, days) {
+            var expires = "";
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days*24*60*60*1000));
+                expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+        }
+    
+        function getCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+    
+        function applyTheme(theme) {
+            document.documentElement.className = theme;
+            document.getElementById('theme-toggle').innerHTML = theme === 'dark-mode' ? '🌞' : '🌙';
+            setCookie('theme', theme, 9999);
+        }
+    
+        document.addEventListener('DOMContentLoaded', function() {
+            var themeToggleButton = document.getElementById('theme-toggle');
+            var compactToggleButton = document.getElementById('compact-toggle');
+            var gameList = document.querySelector('.game-list');
+
+            // Existing theme toggle functionality
+            var currentTheme = getCookie('theme') || 'dark-mode';
+            applyTheme(currentTheme);
+            themeToggleButton.addEventListener('click', function() {
+                var newTheme = document.documentElement.classList.contains('dark-mode') ? 'light-mode' : 'dark-mode';
+                applyTheme(newTheme);
+            });
+
+            // Check for compact view cookie and apply it
+            var compactView = getCookie('compactView') || 'false';
+            if (compactView === 'true') {
+                gameList.classList.add('compact-list');
+                compactToggleButton.textContent = 'Full View';
+            } else {
+                compactToggleButton.textContent = 'Compact View';
+            }
+
+            // Compact view toggle functionality with cookie integration
+            compactToggleButton.addEventListener('click', function() {
+                var isCompact = gameList.classList.toggle('compact-list');
+                compactToggleButton.textContent = isCompact ? 'Full View' : 'Compact View';
+                // Save the compact view state to a cookie
+                setCookie('compactView', isCompact, 9999);
+            });
+        });
+    </script>
+    <script src="js/games.js"></script>
+
+    <br/>
+
+    <!--
+    <script>
+        (function () { var script = document.createElement('script'); script.src="https://cdn.jsdelivr.net/npm/eruda"; document.body.append(script); script.onload = function () { eruda.init(); } })();
+    </script>
+    -->
+</body>
+</html>

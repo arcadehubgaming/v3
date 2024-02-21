@@ -1,0 +1,138 @@
+.game-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    gap: 1rem;
+    padding: 1rem;
+    max-width: 100%;
+    height: 10rem;
+    box-sizing: border-box;
+}
+
+.game-list .game-panel {
+    background: var(--color-bg);
+    border-radius: var(--radius-md);
+    
+    padding: 0rem 0rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.2s ease-in-out;
+    height: 20rem;
+}
+
+html.light-mode .game-panel
+{
+    box-shadow: 0 4px 8px rgba(17, 24, 39, 0.1);
+}
+
+html.dark-mode .game-panel
+{
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 0.5);
+}
+
+.game-list .game-panel:hover {
+    transform: translateY(-5px);
+}
+
+.game-list .game-panel .panel-top {
+    position: relative;
+    width: 100%;
+    height: 60%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), var(--color-raised-bg));
+}
+
+.game-list .game-panel .panel-top img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+}
+
+.game-list .game-panel .panel-bottom {
+    position: relative;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.game-list .game-panel .play-button {
+    margin-top: 0.5rem;
+}
+
+.search-bar {
+    margin: 1rem;
+    text-align: center;
+}
+
+html.dark-mode .search-bar input
+{
+    background: var(--color-bg);
+    outline-color: var(--color-raised-bg);
+    border-color: var(--color-raised-bg);
+}
+
+#game-search {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: var(--radius-md);
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+#game-search::placeholder
+{
+    font-family: Inter;
+}
+
+.genre-filters {
+    margin: 1rem;
+    text-align: center;
+}
+
+.genre-filters label {
+    margin-right: 1rem;
+    font-family: Inter;
+}
+
+.game-list.compact-list {
+    grid-template-columns: 1fr; /* Single column */
+}
+
+.game-list.compact-list .game-panel {
+    height: 5rem; /* Shorter height */
+    flex-direction: row; /* Change direction to row for side-by-side layout */
+    justify-content: space-between; /* Space between name and button */
+    padding: 0.5rem; /* Adjust padding */
+}
+
+.game-list.compact-list .game-panel .panel-top {
+    display: none; /* Hide the image */
+}
+
+.game-list.compact-list .game-panel .panel-bottom {
+    width: 100%; /* Take up full width */
+    height: auto; /* Adjust height automatically */
+    flex-direction: row; /* Layout items in a row */
+    justify-content: space-between; /* Space between elements */
+    align-items: center; /* Center items vertically */
+}
+
+.game-list.compact-list .game-panel .play-button {
+    margin-left: auto; /* Push button to the right */
+}
+
+/* Ensure the game name and play button are aligned properly */
+.game-list.compact-list .game-panel .panel-bottom .game-name {
+    flex-grow: 1; /* Allow the game name to take up available space */
+    text-align: left; /* Align the game name to the left */
+}
+
+.game-list.compact-list .game-panel .panel-bottom .play-button {
+    flex-grow: 0; /* Prevent the button from taking up unnecessary space */
+}
