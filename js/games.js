@@ -1140,7 +1140,7 @@ function populate(searchTerm = '', selectedGenres = []) {
     .sort((a, b) => a[0].localeCompare(b[0]))
     .forEach(([gameName, gameDetails]) => {
 
-        if (searchTerm && !gameName.toLowerCase().includes(searchTerm)) {
+        if (searchTerm && !gameDetails.description.toLowerCase().includes(searchTerm)) {
             return;
         }
         
