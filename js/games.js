@@ -1053,6 +1053,12 @@ window.games = {
         "description": "Friday Night Funkin' (Modded vs Shaggy x Matt)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnfbsides": {
+        "url": "https://basketballstarsonline.github.io/sfnf3/fnf-b-sides/",
+        "description": "Friday Night Funkin' (Modded B-Sides Remixes)",
+        "type": [],
+        "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
     }
 };
 
