@@ -1059,6 +1059,18 @@ window.games = {
         "description": "Friday Night Funkin' (Modded B-Sides Remixes)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnaf": {
+        "url": "https://scratch.mit.edu/projects/733953571/embed",
+        "description": "Five Nights at Freddy's",
+        "type": [],
+        "image": "https://m.media-amazon.com/images/I/81rhVifl0TL.jpg",
+    },
+    "fnaf2": {
+        "url": "https://scratch.mit.edu/projects/469219637/embed",
+        "description": "Five Nights at Freddy's 2",
+        "type": [],
+        "image": "https://m.media-amazon.com/images/I/81rhVifl0TL.jpg",
     }
 };
 
