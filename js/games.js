@@ -1059,6 +1059,24 @@ window.games = {
         "description": "Friday Night Funkin' (Modded B-Sides Remixes)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnaf": {
+        "url": "https://scratch.mit.edu/projects/733953571/embed",
+        "description": "Five Nights at Freddy's",
+        "type": [],
+        "image": "https://m.media-amazon.com/images/I/81rhVifl0TL.jpg",
+    },
+    "fnaf2": {
+        "url": "https://scratch.mit.edu/projects/469219637/embed",
+        "description": "Five Nights at Freddy's 2",
+        "type": [],
+        "image": "https://m.media-amazon.com/images/I/81rhVifl0TL.jpg",
+    },
+    "idlebreakout": {
+        "url": "https://arcadehubgaming.github.io/v3/games2/IdleBreakout/index.html",
+        "description": "Idle Breakout",
+        "type": [],
+        "image": "https://play-lh.googleusercontent.com/nqCoJIPeut1AqbQXBNTbZyUAYgdJWLAfEL3pdXlo9Zk7Z7g9w1DbRfyvm5D2AEWK4w"
     }
 };
 
@@ -1140,7 +1158,7 @@ function populate(searchTerm = '', selectedGenres = []) {
     .sort((a, b) => a[0].localeCompare(b[0]))
     .forEach(([gameName, gameDetails]) => {
 
-        if (searchTerm && !gameName.toLowerCase().includes(searchTerm)) {
+        if (searchTerm && !gameDetails.description.toLowerCase().includes(searchTerm)) {
             return;
         }
         
