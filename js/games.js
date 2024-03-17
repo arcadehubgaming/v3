@@ -1049,7 +1049,7 @@ window.games = {
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
     },
     "fnfshaggymat": {
-        "url": "https://arcadehubgaming.github.io/v3/games/FNF vs Shaggy x Matt/fnf-shaggy-matt.html",
+        "url": "https://basketballstarsonline.github.io/sfnf3/fnf-shaggy-matt/",
         "description": "Friday Night Funkin' (Modded vs Shaggy x Matt)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
