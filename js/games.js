@@ -12,7 +12,7 @@ window.games = {
         "type": ["fighting"]
     },
     "Basketball Stars": {
-        "url": "/games/Basketball%20Stars/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/Basketball%20Stars/index.html",
         "description": "Basketball Stars",
         "image": "https://lh3.googleusercontent.com/IIfqQSCD55XR62Wp4VLjUnb9Xc_hlvuIi98MMNEAH_MRBc28-ZFGw0b9AFFOpYQr3GXWPJfVWYM4V0bXAsRb5tGj=w640-h400-e365-rj-sc0x00ffffff",
         "type": ["simulation", "two-player"]
@@ -30,7 +30,7 @@ window.games = {
         "type": ["simulation", "strategy"]
     },
     "Cookie Clicker": {
-        "url": "/games/Cookie%20Clicker/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/Cookie%20Clicker/index.html",
         "description": "Cookie Clicker",
         "image": "https://play-lh.googleusercontent.com/Z1MOuuiD05ZN5LkVmMEvKF0mqAc-FknaQ2j8s4dZiO-LSPQX4EEA3RVJdlQEtxe96ok",
         "type": ["simulation"]
@@ -54,7 +54,7 @@ window.games = {
         "type": ["strategy", "retro"]
     },
     "Getaway Shootout": {
-        "url": "/games/Getaway%20Shootout/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/Getaway%20Shootout/index.html",
         "description": "Getaway Shootout",
         "image": "https://lh3.googleusercontent.com/a0kvyUxppC4sFkMXpHufpLeyD5Nycw5hQ8FYGcB02vDL_62GftyOWDMxcHTPCq0QG1OWkTqjOFGXqN307npJ7LnGv_4=w640-h400-e365-rj-sc0x00ffffff",
         "type": ["two-player", "fighting"]
@@ -156,862 +156,904 @@ window.games = {
         "type": ["strategy", "retro"]
     },
     "3dfreekick": {
-        "url": "/games2/3dfreekick/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/3dfreekick/index.html",
         "description": "3D Free Kick",
         "type": ["strategy"]
         // need img check ikone folder in games2
     },
     "10minutestilldawn": {
-        "url": "/games2/10-minutes-till-dawn/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/10-minutes-till-dawn/index.html",
         "description": "10 Minutes Till Dawn",
         "type": ["strategy", "fighting", "action"] 
         // need img check ikone folder in games2
     },
     "99balls": {
-        "url": "/games2/99balls/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/99balls/index.html",
         "description": "99 Balls",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "2048": {
-        "url": "/games2/2048/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/2048/index.html",
         "description": "2048",
         "type": ["action", "simulation"],
         // need img check ikone folder in games2
     },
     "a-dance-of-fire-and-ice": {
-        "url": "/games2/a-dance-of-fire-and-ice/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/a-dance-of-fire-and-ice/index.html",
         "description": "A Dance of Fire and Ice",
         "type": [],
         // need img check ikone folder in games2
     },
     "achievementunlocked": {
-        "url": "/games2/achievementunlocked/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/achievementunlocked/index.html",
         "description": "Achievement Unlocked",
         "type": [],
         // need img check ikone folder in games2
     },
     "adventure-drivers": {
-        "url": "/games2/adventure-drivers/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/adventure-drivers/index.html",
         "description": "Adventure Drivers",
         "type": [],
         // need img check ikone folder in games2
     },
     "ages-of-conflict": {
-        "url": "/games2/ages-of-conflict/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/ages-of-conflict/index.html",
         "description": "Ages of Conflict",
         "type": ["simulation", "fighting"],
         // need img check ikone folder in games2
     },
     "alienhominid": {
-        "url": "/games2/alienhominid/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/alienhominid/index.html",
         "description": "Alien Hominid",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "amazing-rope-police": {
-        "url": "/games2/amazing-rope-police/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/amazing-rope-police/index.html",
         "description": "Amazing Rope Police",
         "type": ["simulation"]
     },
     "amidst-the-clouds": {
-        "url": "/games2/amidst-the-clouds/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/amidst-the-clouds/index.html",
         "description": "Amidst the Clouds",
         "type": []
         // need img check ikone folder in games2
     },
     "among-us": {
-        "url": "/games2/among-us/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/among-us/index.html",
         "description": "Among Us",
         "type": ["simulation", "mystery"]
         // need img check ikone folder in games2
     },
     "aquapark": {
-        "url": "/games2/aquapark/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/aquapark/index.html",
         "description": "Aquapark",
         "type": [],
         // need img check ikone folder in games2
     },
     "archery-world-tour": {
-        "url": "/games2/aquapark/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/aquapark/index.html",
         "description": "Archery World Tour",
         "type": [],
         // need img check ikone folder in games2
     },
     "aspiring-artist": {
-        "url": "/games2/aspiring-artist/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/aspiring-artist/index.html",
         "description": "Aspiring Artist",
         "type": [],
         // need img check ikone folder in games2
     },
     "awesometanks2": {
-        "url": "/games2/awesometanks2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/awesometanks2/index.html",
         "description": "Awesome Tanks 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "bad-ice-cream-2": {
-        "url": "/games2/bad-ice-cream-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/bad-ice-cream-2/index.html",
         "description": "Bad Ice Cream 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "baldisbasics": {
-        "url": "/games2/baldisbasics/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/baldisbasics/index.html",
         "description": "Bald is basics",
         "type": [],
         // need img check ikone folder in games2
     },
     "basket-random": {
-        "url": "/games2/basket-random/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/basket-random/index.html",
         "description": "Basket Random",
         "type": [],
         // need img check ikone folder in games2
     },
     "basketbros-io": {
-        "url": "/games2/basketbros-io/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/basketbros-io/index.html",
         "description": "Basketbros.io",
         "type": [],
         // need img check ikone folder in games2
     },
     "bitlife": {
-        "url": "/games2/bitlife/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/bitlife/index.html",
         "description": "Bitlife",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "blockpost2": {
-        "url": "/games2/blockpost2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/blockpost2/index.html",
         "description": "Blockpost 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "blocky-snakes": {
-        "url": "/games2/blocky-snakes/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/blocky-snakes/index.html",
         "description": "Blocky Snakes",
         "type": [],
         // need img check ikone folder in games2
     },
     "bloonstd2": {
-        "url": "/games2/bloonstd2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/bloonstd2/index.html",
         "description": "Bloons Tower Defense",
         "type": ["simulation", "fighting"],
         // need img check ikone folder in games2
     },
     "bloxors": {
-        "url": "/games2/bloxors/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/bloxors/index.html",
         "description": "Bloxors",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "bobtherobber2": {
-        "url": "/games2/bobtherobber2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/bobtherobber2/index.html",
         "description": "Bob the Robber 2",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "boxing-random": {
-        "url": "/games2/boxing-random/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/boxing-random/index.html",
         "description": "Boxing Random",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "breakingthebank": {
-        "url": "/games2/breakingthebank/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/breakingthebank/index.html",
         "description": "Breaking the Bank",
         "type": [],
         // need img check ikone folder in games2
     },
     "btd4": {
-        "url": "/games2/btd4/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/btd4/index.html",
         "description": "Bloons Tower Defense 4",
         "type": [],
         // need img check ikone folder in games2
     },
     "cannon-basketball-4": {
-        "url": "/games2/cannon-basketball-4/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/cannon-basketball-4/index.html",
         "description": "Cannon Basketball 4",
         "type": [],
         // need img check ikone folder in games2
     },
     "cars-simulator": {
-        "url": "/games2/cars-simulator/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/cars-simulator/index.html",
         "description": "Cars Simulator",
         "type": [],
         // need img check ikone folder in games2
     },
     "chrome-dino": {
-        "url": "/games2/chrome-dino/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/chrome-dino/index.html",
         "description": "Chrome Dino",
         "type": [],
         // need img check ikone folder in games2
     },
     "circlo": {
-        "url": "/games2/circlo/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/circlo/index.html",
         "description": "CircloO",
         "type": [],
         // need img check ikone folder in games2
     },
     "color-switch-2-challenges": {
-        "url": "/games2/color-switch-2-challenges/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/color-switch-2-challenges/index.html",
         "description": "Color Switch 2 Challenges",
         "type": [],
         // need img check ikone folder in games2
     },
     "connect3": {
-        "url": "/games2/connect3/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/connect3/index.html",
         "description": "Connect3",
         "type": [],
         // need img check ikone folder in games2
     },
     "craftmine": {
-        "url": "/games2/craftmine/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/craftmine/index.html",
         "description": "Craftmine",
         "type": [],
         // need img check ikone folder in games2
     },
     "creativekillchamber": {
-        "url": "/games2/creativekillchamber/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/creativekillchamber/index.html",
         "description": "Creative Kill Chamber",
         "type": [],
         // need img check ikone folder in games2
     },
     "crossyroad": {
-        "url": "/games2/crossyroad/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/crossyroad/index.html",
         "description": "Crossy Road",
         "type": [],
         // need img check ikone folder in games2
     },
     "ctr": {
-        "url": "/games2/ctr/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/ctr/index.html",
         "description": "Cut the Rope",
         "type": ["strategy"],
         // need img check ikone folder in games2
     },
     "ctr-holiday": {
-        "url": "/games2/ctr-holiday/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/ctr-holiday/index.html",
         "description": "Cut the Rope Holiday",
         "type": ["strategy"],
         // need img check ikone folder in games2
     },
     "cupcake2048": {
-        "url": "/games2/cupcake2048/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/cupcake2048/index.html",
         "description": "2048 Cupcakes",
         "type": ["strategy"],
         // need img check ikone folder in games2
     },
     "deal-or-no-deal": {
-        "url": "/games2/deal-or-no-deal/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/deal-or-no-deal/index.html",
         "description": "Deal or no deal",
         "type": [],
         // need img check ikone folder in games2
     },
     "death-run-3d": {
-        "url": "/games2/death-run-3d/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/death-run-3d/index.html",
         "description": "Death Run 3D",
         "type": [],
         // need img check ikone folder in games2
     },
     "deathcar-io": {
-        "url": "/games2/deathcar-io/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/deathcar-io/index.html",
         "description": "Deathcar.io",
         "type": [],
         // need img check ikone folder in games2
     },
     "DogeMiner": {
-        "url": "/games2/DogeMiner/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/DogeMiner/index.html",
         "description": "DogeMiner",
         "type": [],
         // need img check ikone folder in games2
     },
     "driftboss": {
-        "url": "/games2/driftboss/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/driftboss/index.html",
         "description": "Drift Boss",
         "type": [],
         // need img check ikone folder in games2
     },
     "drifthunters": {
-        "url": "/games2/drifthunters/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/drifthunters/index.html",
         "description": "Drift Hunters",
         "type": [],
         // need img check ikone folder in games2
     },
     "drive-mad": {
-        "url": "/games2/drive-mad/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/drive-mad/index.html",
         "description": "Drive Mad",
         "type": [],
         // need img check ikone folder in games2
     },
     "ducklife4": {
-        "url": "/games2/ducklife4/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/ducklife4/index.html",
         "description": "Duck Life 4",
         "type": [],
         // need img check ikone folder in games2
     },
     "duke-dashington-remastered": {
-        "url": "/games2/duke-dashington-remastered",
+        "url": "https://arcadehubgaming.github.io/v3/games2/duke-dashington-remastered",
         "description": "Duke Dashington Remastered",
         "type": [],
         // need img check ikone folder in games2
     },
     "eggycar": {
-        "url": "/games2/eggycar/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/eggycar/index.html",
         "description": "Eggy Car",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "endlesswar3": {
-        "url": "/games2/endlesswar3/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/endlesswar3/index.html",
         "description": "Endless War 3",
         "type": [],
         // need img check ikone folder in games2
     },
     "fireboywatergirlforesttemple": {
-        "url": "/games2/fireboywatergirlforesttemple/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/fireboywatergirlforesttemple/index.html",
         "description": "Fireboy and Watergirl in the Forest Temple",
         "type": [],
         // need img check ikone folder in games2
     },
     "flappy-bird": {
-        "url": "/games2/flappy-bird/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/flappy-bird/index.html",
         "description": "Flappy Bird",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "fruitninja": {
-        "url": "/games2/fruitninja/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/fruitninja/index.html",
         "description": "Fruit Ninja",
         "type": ["simulation", "action"],
         // need img check ikone folder in games2
     },
     "geodash": {
-        "url": "/games2/geodash/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/geodash/index.html",
         "description": "Geodash",
         "type": [],
         // need img check ikone folder in games2
     },
     "geodash-2": {
-        "url": "/games2/geodash-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/geodash-2/index.html",
         "description": "Geodash 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "gravity-soccer": {
-        "url": "/games2/gravity-soccer/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/gravity-soccer/index.html",
         "description": "Gravity Soccer",
         "type": [],
         // need img check ikone folder in games2
     },
     "grindcraft": {
-        "url": "/games2/grindcraft/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/grindcraft/index.html",
         "description": "Grindcraft",
         "type": [],
         // need img check ikone folder in games2
     },
     "gun-mayhem-2": {
-        "url": "/games2/gun-mayhem-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/gun-mayhem-2/index.html",
         "description": "Gun Mayhem 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "happy-wheels": {
-        "url": "/games2/happy-wheels/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/happy-wheels/index.html",
         "description": "Happy Wheels",
         "type": [],
         // need img check ikone folder in games2
     },
     "hill-climb-racing": {
-        "url": "/games2/hill-climb-racing/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/hill-climb-racing/index.html",
         "description": "Hill Climb Racing",
         "type": [],
         // need img check ikone folder in games2
     },
     "idle-breakout": {
-        "url": "/games2/idle-breakout/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/idle-breakout/index.html",
         "description": "Idle Breakout",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "jellytuck": {
-        "url": "/games2/jellytruck/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/jellytruck/index.html",
         "description": "Jelly Truck",
         "type": [],
         // need img check ikone folder in games2
     },
     "jetpack-joyride": {
-        "url": "/games2/jetpack-joyride/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/jetpack-joyride/index.html",
         "description": "Jetpack Joyride",
         "type": [],
         // need img check ikone folder in games2
     },
     "just-fall": {
-        "url": "/games2/just-fall/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/just-fall/index.html",
         "description": "Just Fall",
         "type": [],
         // need img check ikone folder in games2
     },
     "kart-fight-io": {
-        "url": "/games2/kart-fight-io/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/kart-fight-io/index.html",
         "description": "Kart Fight.io",
         "type": [],
         // need img check ikone folder in games2
     },
     "learntofly": {
-        "url": "/games2/learntofly/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/learntofly/index.html",
         "description": "Learn To Fly",
         "type": [],
         // need img check ikone folder in games2
     },
     "madalin": {
-        "url": "/games2/madalin/madalin-stunt-cars-3/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/madalin/madalin-stunt-cars-3/index.html",
         "description": "Madalin Stunt Cars 3",
         "type": [],
         // need img check ikone folder in games2
     },
     "madalin2": {
-        "url": "/games2/madalin2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/madalin2/index.html",
         "description": "Madalin Stunt Cars 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "madalin-multiplayer": {
-        "url": "/games2/madalin2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/madalin2/index.html",
         "description": "Madalin Cars Multiplayer",
         "type": [],
         // need img check ikone folder in games2
     },
     "merge-round-racers": {
-        "url": "/games2/merge-round-racers/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/merge-round-racers/index.html",
         "description": "Merge Round Racers",
         "type": [],
         // need img check ikone folder in games2
     },
     "minecraft-classic": {
-        "url": "/games2/minecraft-classic/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/minecraft-classic/index.html",
         "description": "Minecraft (Classic)",
         "type": ["simulation", "retro", "fighting", "multiplayer"],
         // need img check ikone folder in games2
     },
     "minesweeper": {
-        "url": "/games2/minesweeper/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/minesweeper/index.html",
         "description": "Minesweeper",
         "type": [],
         // need img check ikone folder in games2
     },
     "motox3m-pool": {
-        "url": "/games2/motox3m-pool/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/motox3m-pool/index.html",
         "description": "Moto X3M Pool Party",
         "type": [],
         // need img check ikone folder in games2
     },
     "motox3m-spooky": {
-        "url": "/games2/motox3m-spooky/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/motox3m-spooky/index.html",
         "description": "Moto X3M Spooky Land",
         "type": [],
         // need img check ikone folder in games2
     },
     "motox3m-winter": {
-        "url": "/games2/motox3m-winter/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/motox3m-winter/index.html",
         "description": "Moto X3M Winter",
         "type": [],
         // need img check ikone folder in games2
     },
     "motox3m2": {
-        "url": "/games2/motox3m2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/motox3m2/index.html",
         "description": "Moto X3M2",
         "type": [],
         // need img check ikone folder in games2
     },
     "ovo": {
-        "url": "/games2/ovo/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/ovo/index.html",
         "description": "OvO",
         "type": [],
         // need img check ikone folder in games2
     },
     "ovo3": {
-        "url": "/games2/ovo3/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/ovo3/index.html",
         "description": "OvO Dimensions",
         "type": [],
         // need img check ikone folder in games2
     },
     "ovo144": {
-        "url": "/games2/ovo144/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/ovo144/index.html",
         "description": "OvO 1.4.4",
         "type": [],
         // need img check ikone folder in games2
     },
     "pacman": {
-        "url": "/games2/pacman/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/pacman/index.html",
         "description": "Pacman",
         "type": [],
         // need img check ikone folder in games2
     },
     "papasburgeria": {
-        "url": "/games2/papasburgeria/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/papasburgeria/index.html",
         "description": "Papa's Burgeria",
         "type": [],
         // need img check ikone folder in games2
     },
     "papaspizzaria": {
-        "url": "/games2/papaspizzaria/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/papaspizzaria/index.html",
         "description": "Papa's Pizzaria",
         "type": [],
         // need img check ikone folder in games2
     },
     "paperio2": {
-        "url": "/games2/paperio2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/paperio2/index.html",
         "description": "Paper.io 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "pixel-gun-survival": {
-        "url": "/games2/pixel-gun-survival/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/pixel-gun-survival/index.html",
         "description": "Pixel Gun Survival",
         "type": [],
         // need img check ikone folder in games2
     },
     "quake": {
-        "url": "/games2/quake/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/quake/index.html",
         "description": "Quake",
         "type": [],
         // need img check ikone folder in games2
     },
     "rabbit-samurai2": {
-        "url": "/games2/rabbit-samurai2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/rabbit-samurai2/index.html",
         "description": "Rabbit Samaurai 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "retro-bowl": {
-        "url": "/games2/retro-bowl/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/retro-bowl/index.html",
         "description": "Retro Bowl",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "riddle-school5": {
-        "url": "/games2/riddle-school5/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/riddle-school5/index.html",
         "description": "Riddle School 5",
         "type": [],
         // need img check ikone folder in games2
     },
     "riddletransfer2": {
-        "url": "/games2/riddletransfer2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/riddletransfer2/index.html",
         "description": "Riddle Transfer 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "rise-of-neon-square": {
-        "url": "/games2/rise-of-neon-square/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/rise-of-neon-square/index.html",
         "description": "Rise of Neon Square",
         "type": [],
         // need img check ikone folder in games2
     },
     "rooftop-snipers": {
-        "url": "/games2/rooftop-snipers/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/rooftop-snipers/index.html",
         "description": "Rooftop Snipers",
         "type": [],
         // need img check ikone folder in games2
     },
     "rooftop-snipers-2": {
-        "url": "/games2/rooftop-snipers-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/rooftop-snipers-2/index.html",
         "description": "Rooftop Snipers 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "run3": {
-        "url": "/games2/run3/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/run3/index.html",
         "description": "Run 3",
         "type": [],
         // need img check ikone folder in games2
     },
     "scrapmetal": {
-        "url": "/games2/scrapmetal/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/scrapmetal/index.html",
         "description": "Scrap Metal 3",
         "type": [],
         // need img check ikone folder in games2
     },
     "short-life-2": {
-        "url": "/games2/short-life-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/short-life-2/index.html",
         "description": "Short Life 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "skyblock": {
-        "url": "/games2/skyblock/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/skyblock/index.html",
         "description": "Skyblock",
         "type": ["simulation"],
         // need img check ikone folder in games2
     },
     "slime-rush-td": {
-        "url": "/games2/slime-rush-td/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/slime-rush-td/index.html",
         "description": "Slime Rush TD",
         "type": [],
         // need img check ikone folder in games2
     },
     "slope": {
-        "url": "/games2/slope/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/slope/index.html",
         "description": "Slope",
         "type": [],
         // need img check ikone folder in games2
     },
     "slope-2": {
-        "url": "/games2/slope-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/slope-2/index.html",
         "description": "Slope 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "smallworldcup": {
-        "url": "/games2/smallworldcup/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/smallworldcup/index.html",
         "description": "Small World Cup",
         "type": [],
         // need img check ikone folder in games2
     },
     "smashkarts": {
-        "url": "/games2/smashkarts/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/smashkarts/index.html",
         "description": "Smash Karts",
         "type": [],
         // need img check ikone folder in games2
     },
     "snowbattle": {
-        "url": "/games2/snowbattle/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/snowbattle/index.html",
         "description": "SnowBattle.io",
         "type": [],
         // need img check ikone folder in games2
     },
     "snowrider3d": {
-        "url": "/games2/snowrider3d/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/snowrider3d/index.html",
         "description": "Snow Ride 3D",
         "type": [],
         // need img check ikone folder in games2
     },
     "soccer-random": {
-        "url": "/games2/soccer-random/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/soccer-random/index.html",
         "description": "Soccer Random",
         "type": [],
         // need img check ikone folder in games2
     },
     "soccer-skills": {
-        "url": "/games2/soccer-skills/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/soccer-skills/index.html",
         "description": "Soccer Skills",
         "type": [],
         // need img check ikone folder in games2
     },
     "solitaire": {
-        "url": "/games2/solitaire/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/solitaire/index.html",
         "description": "Solitaire",
         "type": [],
         // need img check ikone folder in games2
     },
     "stack-bump-3d": {
-        "url": "/games2/stack-bump-3d/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/stack-bump-3d/index.html",
         "description": "Stack Bump 3D",
         "type": [],
         // need img check ikone folder in games2
     },
     "stealingthediamond": {
-        "url": "/games2/stealingthediamond/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/stealingthediamond/index.html",
         "description": "Stealing the Diamond",
         "type": [],
         // need img check ikone folder in games2
     },
     "stick-duel-battle": {
-        "url": "/games2/stick-duel-battle/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/stick-duel-battle/index.html",
         "description": "Stick Duel Battle",
         "type": [],
         // need img check ikone folder in games2
     },
     "stickman-boost": {
-        "url": "/games2/stickman-boost/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/stickman-boost/index.html",
         "description": "Stickman Boost",
         "type": [],
         // need img check ikone folder in games2
     },
     "stickman-dismount": {
-        "url": "/games2/stickman-dismount/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/stickman-dismount/index.html",
         "description": "Stickman Dismount",
         "type": [],
         // need img check ikone folder in games2
     },
     "stickman-hook": {
-        "url": "/games2/stickman-hook/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/stickman-hook/index.html",
         "description": "Stickman Hook",
         "type": [],
         // need img check ikone folder in games2
     },
     "subway-surfers": {
-        "url": "/games2/subway-surfers/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/subway-surfers/index.html",
         "description": "Subway Surfers",
         "type": [],
         // need img check ikone folder in games2
     },
     "subway-surfers-bali": {
-        "url": "/games2/subway-surfers-bali/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/subway-surfers-bali/index.html",
         "description": "Subway Surfers (Bali)",
         "type": [],
         // need img check ikone folder in games2
     },
     "subway-surfers-ny": {
-        "url": "/games2/subway-surfers-ny/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/subway-surfers-ny/index.html",
         "description": "Subway Surfers (New York)",
         "type": [],
         // need img check ikone folder in games2
     },
     "subway-surfers-sf": {
-        "url": "/games2/subway-surfers/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/subway-surfers/index.html",
         "description": "Subway Surfers (San Francisco)",
         "type": [],
         // need img check ikone folder in games2
     },
     "swerve": {
-        "url": "/games2/swerve/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/swerve/index.html",
         "description": "Swerve",
         "type": [],
         // need img check ikone folder in games2
     },
     "tank-trouble-2": {
-        "url": "/games2/tank-trouble-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/tank-trouble-2/index.html",
         "description": "Tank Trouble 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "temple-run-2": {
-        "url": "/games2/temple-run-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/temple-run-2/index.html",
         "description": "Temple Run 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "tetris": {
-        "url": "/games2/tetris/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/tetris/index.html",
         "description": "Tetris",
         "type": [],
         // need img check ikone folder in games2
     },
     "the-bowling-club": {
-        "url": "/games2/the-bowling-club/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/the-bowling-club/index.html",
         "description": "The Bowling Club",
         "type": [],
         // need img check ikone folder in games2
     },
     "the-final-earth": {
-        "url": "/games2/the-final-earth/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/the-final-earth/index.html",
         "description": "The Final Earth",
         "type": [],
         // need img check ikone folder in games2
     },
     "the-final-earth-2": {
-        "url": "/games2/the-final-earth-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/the-final-earth-2/index.html",
         "description": "The Final Earth 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "the-impossible-quiz": {
-        "url": "/games2/the-impossible-quiz/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/the-impossible-quiz/index.html",
         "description": "The Impossible Quiz",
         "type": [],
         // need img check ikone folder in games2
     },
     "the-impossible-quiz2": {
-        "url": "/games2/the-impossible-quiz2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/the-impossible-quiz2/index.html",
         "description": "The Impossible Quiz 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "theheist": {
-        "url": "/games2/theheist/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/theheist/index.html",
         "description": "The Heist",
         "type": [],
         // need img check ikone folder in games2
     },
     "there-is-no-game": {
-        "url": "/games2/there-is-no-game/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/there-is-no-game/index.html",
         "description": "There is No Game",
         "type": [],
         // need img check ikone folder in games2
     },
     "time-shooter-3": {
-        "url": "/games2/time-shooter-3/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/time-shooter-3/index.html",
         "description": "Time Shooter 3",
         "type": [],
         // need img check ikone folder in games2
     },
     "tiny-fishing": {
-        "url": "/games2/tiny-fishing/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/tiny-fishing/index.html",
         "description": "Tiny Fishing",
         "type": [],
         // need img check ikone folder in games2
     },
     "tube-jumpers": {
-        "url": "/games2/tube-jumpers/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/tube-jumpers/index.html",
         "description": "Tube Jumpers",
         "type": [],
         // need img check ikone folder in games2
     },
     "tunnel-rush": {
-        "url": "/games2/tunnel-rush/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/tunnel-rush/index.html",
         "description": "Tunnel Rush",
         "type": [],
         // need img check ikone folder in games2
     },
     "tunnelrush2": {
-        "url": "/games2/tunnelrush2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/tunnelrush2/index.html",
         "description": "Tunnel Rush 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "vex3": {
-        "url": "/games2/vex3/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/vex3/index.html",
         "description": "Vex 3",
         "type": [],
         // need img check ikone folder in games2
     },
     "vex4": {
-        "url": "/games2/vex4/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/vex4/index.html",
         "description": "Vex 4",
         "type": [],
         // need img check ikone folder in games2
     },
     "ve53": {
-        "url": "/games2/vex5/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/vex5/index.html",
         "description": "Vex 5",
         "type": [],
         // need img check ikone folder in games2
     },
     "vex6": {
-        "url": "/games2/vex6/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/vex6/index.html",
         "description": "Vex 6",
         "type": [],
         // need img check ikone folder in games2
     },
     "vex7": {
-        "url": "/games2/vex7/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/vex7/index.html",
         "description": "Vex 7",
         "type": [],
         // need img check ikone folder in games2
     },
     "wordle": {
-        "url": "/games2/wordle/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/wordle/index.html",
         "description": "Wordle",
         "type": [],
         // need img check ikone folder in games2
     },
     "worlds-hardest-game": {
-        "url": "/games2/worlds-hardest-game/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/worlds-hardest-game/index.html",
         "description": "Worlds Hardest Game",
         "type": [],
         // need img check ikone folder in games2
     },
     "worlds-hardest-game-2": {
-        "url": "/games2/worlds-hardest-game-2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/worlds-hardest-game-2/index.html",
         "description": "Worlds Hardest Game 2",
         "type": [],
         // need img check ikone folder in games2
     },
     "yohoho": {
-        "url": "/games2/yohoho/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games2/yohoho/index.html",
         "description": "Yohoho",
         "type": [],
         // need img check ikone folder in games2
     },
+    "fnfsonicexe": {
+        "url": "https://twastinfg.github.io/FNF-Online-23/sonic-exe/",
+        "description": "Friday Night Funkin' (Modded vs Sonic.exe)",
+        "type": [],
+        "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnfqt": {
+        "url": "https://twastinfg.github.io/FNF-Online-23/qt/",
+        "description": "Friday Night Funkin' (Modded vs Qt)",
+        "type": [],
+        "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnfimpostor": {
+        "url": "https://twastinfg.github.io/FNF-Online-23/impostor-v3/",
+        "description": "Friday Night Funkin' (Modded vs Impostors)",
+        "type": [],
+        "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnfcamillea": {
+        "url": "https://twastinfg.github.io/FNF-Online-23/camellia/",
+        "description": "Friday Night Funkin' (Modded vs Camellia)",
+        "type": [],
+        "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnf8bitryan": {
+        "url": "https://twastinfg.github.io/FNF-Online-23/8bitryan/",
+        "description": "Friday Night Funkin' (Modded vs 8-bit Ryan)",
+        "type": [],
+        "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnfslenderman": {
+        "url": "https://twastinfg.github.io/FNF-Online-23/slenderman/",
+        "description": "Friday Night Funkin' (Modded vs Slenderman)",
+        "type": [],
+        "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    },
+    "fnfshaggymat": {
+        "url": "https://arcadehubgaming.github.io/v3/games/fnf-shaggy-matt.html",
+        "description": "Friday Night Funkin' (Modded vs Shaggy x Matt)",
+        "type": [],
+        "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
+    }
 };
 
 function generateGenreCheckboxes() {
