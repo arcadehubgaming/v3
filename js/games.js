@@ -1013,37 +1013,37 @@ window.games = {
         // need img check ikone folder in games2
     },
     "fnfsonicexe": {
-        "url": "https://twastinfg.github.io/FNF-Online-23/sonic-exe/",
+        "url": "https://notchyves.github.io/FNF-Online-23/sonic-exe/",
         "description": "Friday Night Funkin' (Modded vs Sonic.exe)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
     },
     "fnfqt": {
-        "url": "https://twastinfg.github.io/FNF-Online-23/qt/",
+        "url": "https://notchyves.github.io/FNF-Online-23/qt/",
         "description": "Friday Night Funkin' (Modded vs Qt)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
     },
     "fnfimpostor": {
-        "url": "https://twastinfg.github.io/FNF-Online-23/impostor-v3/",
+        "url": "https://notchyves.github.io/FNF-Online-23/impostor-v3/",
         "description": "Friday Night Funkin' (Modded vs Impostors)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
     },
     "fnfcamillea": {
-        "url": "https://twastinfg.github.io/FNF-Online-23/camellia/",
+        "url": "https://notchyves.github.io/FNF-Online-23/camellia/",
         "description": "Friday Night Funkin' (Modded vs Camellia)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
     },
     "fnf8bitryan": {
-        "url": "https://twastinfg.github.io/FNF-Online-23/8bitryan/",
+        "url": "https://notchyves.github.io/FNF-Online-23/8bitryan/",
         "description": "Friday Night Funkin' (Modded vs 8-bit Ryan)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
     },
     "fnfslenderman": {
-        "url": "https://twastinfg.github.io/FNF-Online-23/slenderman/",
+        "url": "https://notchyves.github.io/FNF-Online-23/slenderman/",
         "description": "Friday Night Funkin' (Modded vs Slenderman)",
         "type": [],
         "image": "https://i.ytimg.com/vi/ZbkCdwIM1TE/maxresdefault.jpg",
