@@ -36,7 +36,7 @@ window.games = {
         "type": ["simulation"]
     },
     "Eaglercraft": {
-        "url": "https://arcadehubgaming.github.io/v3/games/EaglerCraft%201.5.2/index.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/EaglerCraft%201.5.2/eaglercraft.1.5.2.html",
         "description": "Eaglercraft",
         "image": "https://staticg.sportskeeda.com/editor/2022/08/32b7b-16614680751228-1920.jpg",
         "type": ["simulation", "strategy", "fighting"]
