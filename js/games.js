@@ -24,7 +24,7 @@ window.games = {
         "type": ["simulation"]
     },
     "Territorial.io": {
-        "url": "https://territorialio.pages.dev/",
+        "url": "https://arcadehubgaming.github.io/v3/games/Territorial.io/index.html",
         "description": "Territorial.io",
         "image": "https://i.ytimg.com/vi/7CAPIL60OXE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBO7qvs-J3j_-YvONFmRoWxqSqoLw",
         "type": ["simulation", "strategy"]
@@ -36,19 +36,19 @@ window.games = {
         "type": ["simulation"]
     },
     "Eaglercraft": {
-        "url": "https://eaglercraft152.pages.dev/eaglercraft.1.5.2.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/EaglerCraft%201.5.2/index.html",
         "description": "Eaglercraft",
         "image": "https://staticg.sportskeeda.com/editor/2022/08/32b7b-16614680751228-1920.jpg",
         "type": ["simulation", "strategy", "fighting"]
     },
     "Banjo-Kazooie": {
-        "url": "https://romarchives2.pages.dev/BanjoKazooie.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/BanjoKazooie.html",
         "description": "Banjo-Kazooie",
         "image": "https://ew.com/thmb/zOExf8PGDHxAKBdNWzOK2zGjh6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/banjo-2000-594c25971ddd448490699679b01fa8d0.jpg",
         "type": ["strategy", "action", "retro"],
     },
     "Super Mario World": {
-        "url": "https://romarchives2.pages.dev/SuperMarioWorld.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/SuperMarioWorld.html",
         "description": "Super Mario World",
         "image": "https://www.wired.com/images_blogs/gamelife/2013/05/marioworld_660.jpg",
         "type": ["strategy", "retro"]
@@ -60,97 +60,97 @@ window.games = {
         "type": ["two-player", "fighting"]
     },
     "Donkey Kong": {
-        "url": "https://romarchives2.pages.dev/DonkeyKong.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/DonkeyKong.html",
         "description": "Donkey Kong",
         "image": "https://punishedbacklog.com/wp-content/uploads/2018/03/Donkey-Kong-Country-Featured-Image.jpg",
         "type": ["strategy", "retro"]
     },
     "Earthbound": {
-        "url": "https://romarchives2.pages.dev/Earthbound.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/Earthbound.html",
         "description": "Earthbound",
         "image": "https://cdn.vox-cdn.com/thumbor/__PokUkx8TwGl7MssmDfWzeMsBs=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70490988/vlcsnap_2022_02_09_17h33m43s096.0.png",
         "type": ["strategy", "retro"]
     },
     "Mario 64": {
-        "url": "https://romarchives2.pages.dev/Mario64.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/Mario64.html",
         "description": "Mario 64",
         "image": "https://cdn.mos.cms.futurecdn.net/rZqC8wvQ5BdUXJPCbeMie6-1200-80.jpg",
         "type": ["strategy", "retro"]
     },
     "Mario Bros": {
-        "url": "https://romarchives2.pages.dev/MarioBros.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/MarioBros.html",
         "description": "Mario Bros.",
         "image": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2021/03/mario-day-special-the-evolution-of-mario-bros-1983.jpg",
         "type": ["strategy", "retro"]
     },
     "Mario Kart 64": {
-        "url": "https://romarchives2.pages.dev/MarioKart64.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/MarioKart64.html",
         "description": "Mario Kart 64",
         "image": "https://assetsio.reedpopcdn.com/co67hm.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
         "type": ["strategy", "retro"]
     },
     "MegaMan": {
-        "url": "https://romarchives2.pages.dev/MegaMan.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/MegaMan.html",
         "description": "Mega Man",
         "image": "https://images.nintendolife.com/600d7b587eecc/1280x720.jpg",
         "type": ["strategy", "retro"]
     },
     "MegaMan2": {
-        "url": "https://romarchives2.pages.dev/MegaMan2.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/MegaMan2.html",
         "description": "Mega Man 2",
         "image": "https://www.heypoorplayer.com/wp-content/uploads/2017/06/Mega-Man-2-Underwater.jpg",
         "type": ["strategy", "retro"]
     },
     "MegaMan3": {
-        "url": "https://romarchives2.pages.dev/MegaMan3.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/MegaMan3.html",
         "description": "Mega Man 3",
         "image": "https://2.bp.blogspot.com/_1v_1_hhWp84/TRULIlS8SQI/AAAAAAAAD18/SgYX2CnBTiM/s1600/MM3%2B1.jpg",
         "type": ["strategy", "retro"]
     },
     "MegaMan4": {
-        "url": "https://romarchives2.pages.dev/MegaMan4.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/MegaMan4.html",
         "description": "Mega Man 4",
         "image": "https://1.bp.blogspot.com/-E5Pbs0oTh0E/Wh8Sh-qCsSI/AAAAAAAAdzs/TitVanOdRC4GVjVulXZohB5xjTb3cX6fwCLcBGAs/s1600/mm11.png",
         "type": ["strategy", "retro"]
     },
     "MegaManX": {
-        "url": "https://romarchives2.pages.dev/MegaManX.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/MegaManX.html",
         "description": "Mega Man X",
         "image": "https://i.ytimg.com/vi/qyv3IrE1YLY/maxresdefault.jpg",
         "type": ["strategy", "retro"]
     },
     "Sonic": {
-        "url": "https://romarchives2.pages.dev/Sonic.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/Sonic.html",
         "description": "Sonic the Hedgehog",
         "image": "https://play-lh.googleusercontent.com/4c_ZpfvsHBpGv0yxT90dpUHp73UOiPhSeBvZ0I-SLxd5qAyJ5FDjR0e67HQGCtSmzQ=w526-h296-rw",
         "type": ["strategy", "retro"]
     },
     "Sonic2": {
-        "url": "https://romarchives2.pages.dev/Sonic2.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/Sonic2.html",
         "description": "Sonic the Hedgehog 2",
         "image": "https://zmgvideos.mashable.com/cms/2018/10/5c32b288-3851-381c/uploaded_thumbnail.png",
         "type": ["strategy", "retro"]
     },
     "StreetFighter2": {
-        "url": "https://romarchives2.pages.dev/StreetFighterII.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/StreetFighterII.html",
         "description": "Street Fighter 2",
         "image": "https://lh3.googleusercontent.com/ovqR1Rvl3k-5jasvJR7OASCEMnXJuFNdnLY2cSSXD-_7ns1ocDeGnh6sE5ALnBTsRj-i5UystoHJRUSs7d9xGAJ8=w640-h400-e365-rj-sc0x00ffffff",
         "type": ["fighting", "retro"]
     },
     "SuperMario2": {
-        "url": "https://romarchives2.pages.dev/SuperMario2.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/SuperMario2.html",
         "description": "Super Mario 2",
         "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/Smb2_comparison.png",
         "type": ["strategy", "retro"]
     },
     "SuperMario3": {
-        "url": "https://romarchives2.pages.dev/SuperMario3.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/SuperMario3.html",
         "description": "Super Mario 3",
         "image": "https://i.ytimg.com/vi/Na8rqq47gi0/maxresdefault.jpg",
         "type": ["strategy", "retro"]
     },
     "SuperSmashBros": {
-        "url": "https://romarchives2.pages.dev/SuperSmashBros.html",
+        "url": "https://arcadehubgaming.github.io/v3/games/romarchives-main/SuperSmashBros.html",
         "description": "Super Smash Bros.",
         "image": "https://i.ytimg.com/vi/X8QpVtb3sl0/maxresdefault.jpg",
         "type": ["strategy", "retro"]
