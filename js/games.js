@@ -17,6 +17,24 @@ window.games = {
         "image": "https://lh3.googleusercontent.com/IIfqQSCD55XR62Wp4VLjUnb9Xc_hlvuIi98MMNEAH_MRBc28-ZFGw0b9AFFOpYQr3GXWPJfVWYM4V0bXAsRb5tGj=w640-h400-e365-rj-sc0x00ffffff",
         "type": ["simulation", "two-player"]
     },
+    "Candy Crush": {
+        "url": "https://arcadehubgaming.github.io/v3/games/CandyCrush/index.html",
+        "description": "Candy Crush",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJe_iM_yC8Zhb_aJ-EyFizqqtLP5lwBST4AXeGBVxgA&s",
+        "type": ["simulation"]
+    },
+    "Douchebag Chick": {
+        "url": "https://arcadehubgaming.github.io/v3/games/DouchebagChick/index.html",
+        "description": "Douchebag Chick",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYfhVTmG3Dux2hZFZQKMQJhkcQkx_jJ-MVCeEmBe__w&s",
+        "type": ["simulation"]
+    },
+    "ESPN Baseball": {
+        "url": "https://arcadehubgaming.github.io/v3/games/ESPNBaseball/index.html",
+        "description": "ESPN Baseball",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYfhVTmG3Dux2hZFZQKMQJhkcQkx_jJ-MVCeEmBe__w&s",
+        "type": ["simulation"]
+    },
     "Elastic Face": {
         "url": "https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html",
         "description": "Elastic Face",
