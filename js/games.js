@@ -1,4 +1,10 @@
 window.games = {
+    "arcadehub-suggestion-issue-tracker": {
+        "url": "https://forms.gle/ZG1uAWEKaHEj9FVw9",
+        "description": "AracdeHub's Suggestions/Issues Tracker (Google Forms)",
+        "image": "https://form-publisher.com/blog/content/images/size/w1200/2023/01/How-to-Make-your-own-Google-Form.png",
+        "type": ["arcadehub issues", "aracdehub suggestions"]
+    },
     "1v1.LOL (New)": {
         "url": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/mind4ur/WPpluginsync@main/lib/edit/up.xml",
         "description": "1v1.LOL",
