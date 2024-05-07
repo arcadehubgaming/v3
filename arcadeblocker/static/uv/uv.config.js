@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/static/arcadehub/',
+    prefix: '/static/tiw/',
     bare:'https://backend.infrared.bomberfish.ca/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
