@@ -3,7 +3,13 @@ window.games = {
         "url": "https://forms.gle/ZG1uAWEKaHEj9FVw9",
         "description": "AracdeHub's Suggestions/Issues Tracker (Google Forms)",
         "image": "https://form-publisher.com/blog/content/images/size/w1200/2023/01/How-to-Make-your-own-Google-Form.png",
-        "type": ["arcadehub issues", "aracdehub suggestions"]
+        "type": ["arcadehub exclusive"]
+    },
+    "arcadehub-uv-pr": {
+        "url": "https://arcadehubgaming.github.io/v3/arcadeblocker/index.html",
+        "description": "ArcadeHub's Unblocker",
+        "image": "",
+        "type": ["arcadehub exclusive"]
     },
     "1v1.LOL (New)": {
         "url": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/mind4ur/WPpluginsync@main/lib/edit/up.xml",
