@@ -1101,6 +1101,12 @@ window.games = {
         "description": "Five Nights at Freddy's 2",
         "type": [],
         "image": "https://m.media-amazon.com/images/I/81rhVifl0TL.jpg",
+    },
+    "volleyrandom": {
+        "url": "https://arcadehubgaming.github.io/v3/games/VolleyRandom/index.html",
+        "description": "Volley Random",
+        "type": [],
+        "image": "",
     }
 };
 
