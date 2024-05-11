@@ -6,7 +6,7 @@ window.games = {
         "type": ["arcadehub exclusive"]
     },
     "arcadehub-uv-pr": {
-        "url": "https://infrared.bomberfish.ca/",
+        "url": "https://confire.monkeyconveyancing.co.nz/",
         "description": "ArcadeHub's Unblocker",
         "image": "",
         "type": ["arcadehub exclusive"]
