@@ -6,7 +6,7 @@ window.games = {
         "type": ["arcadehub exclusive"]
     },
     "arcadehub-uv-pr": {
-        "url": "https://confire.monkeyconveyancing.co.nz/",
+        "url": "https://iforgor.modernpotterystudio.com/",
         "description": "ArcadeHub's Unblocker",
         "image": "",
         "type": ["arcadehub exclusive"]
