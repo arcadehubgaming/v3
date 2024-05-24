@@ -6,7 +6,7 @@ window.games = {
         "type": ["arcadehub exclusive"]
     },
     "arcadehub-uv-pr": {
-        "url": "https://boujour.croqueau.ch/",
+        "url": "https://letmekissdingus.commwebworks.com/",
         "description": "ArcadeHub's Unblocker",
         "image": "",
         "type": ["arcadehub exclusive"]
