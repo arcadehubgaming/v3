@@ -6,7 +6,7 @@ window.games = {
         "type": ["arcadehub exclusive"]
     },
     "arcadehub-uv-pr": {
-        "url": "https://letmekissdingus.commwebworks.com/",
+        "url": "https://daily.artitech.com/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2F",
         "description": "ArcadeHub's Unblocker",
         "image": "",
         "type": ["arcadehub exclusive"]
