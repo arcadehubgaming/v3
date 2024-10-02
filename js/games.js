@@ -7,7 +7,7 @@ window.games = {
     },
     "arcadehub-uv-pr": {
         //"url": "https://daily.artitech.com/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2F",
-        "url": "https://europe.worldwide.grupokarsten.com.mx/",
+        "url": "https://not-made-by-a-potato.meexpress.net/",
         "description": "ArcadeHub's Unblocker",
         "image": "",
         "type": ["arcadehub exclusive"]
